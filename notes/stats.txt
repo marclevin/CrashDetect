@@ -1,0 +1,13 @@
+Images used to train model:
+268 samples for crashed cars.
+292 samples for safe cars.
+
+80 Epochs total.
+
+****
+
+To use this project you need to have a working version of Maven installed.
+
+Please place the serverMain.exe inside of ./crash/api
+
+****
