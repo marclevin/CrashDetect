@@ -1,0 +1,1 @@
+serverMain.exe should go in this folder

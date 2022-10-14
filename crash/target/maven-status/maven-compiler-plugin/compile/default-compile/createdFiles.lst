@@ -1,0 +1,5 @@
+com\crash\api\Command.class
+com\crash\api\Sender.class
+com\crash\Main.class
+com\crash\file\FileManager.class
+com\crash\gui\Monitor.class
